@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CodingEventsApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(CodingEventsApplication.class, args);
 	}
 
